@@ -6,7 +6,7 @@ using namespace std;
 
 https://codeforces.com/problemset/problem/41/A
 
-Status - UnSubmitted
+Status - Submitted
 
 */
 
